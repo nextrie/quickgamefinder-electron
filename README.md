@@ -18,3 +18,14 @@ Ce projet repose sur une structure réseau utilisant le protocole TCP. Ce protoc
 Dans notre cas le serveur aura le contrôle des connexions, inscriptions, la gestion des salons, les messages etc...
 
 Ce projet reprend le concept de base de celui que j'ai réalisé en C# il y'a un an mais en améliorant considérablement l'aspect graphique et technique de celui-ci.
+
+
+// NOTE //
+
+Les packets réseau échangés entre le serveur et le client n'ont volontairement pas été encrypté car ce projet est purement personnel, développé par passion et ne sera pas déployé publiquement, les données qui y sont stockées n'ont donc pas besoin d'être sécurisées.
+
+// Work In Progress //
+
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/Screenshot_1.png)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/Screenshot_2.png)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/Screenshot_3.png)
