@@ -1,0 +1,17 @@
+D:\WOA\DevServer\WOA_DEVServer\WOA_DEVServer\bin\Debug\WOA_DEVServer.exe.config
+D:\WOA\DevServer\WOA_DEVServer\WOA_DEVServer\bin\Debug\WOA_DEVServer.exe
+D:\WOA\DevServer\WOA_DEVServer\WOA_DEVServer\bin\Debug\WOA_DEVServer.pdb
+D:\WOA\DevServer\WOA_DEVServer\WOA_DEVServer\obj\Debug\WOA_DEVServer.csprojAssemblyReference.cache
+D:\WOA\DevServer\WOA_DEVServer\WOA_DEVServer\obj\Debug\WOA_DEVServer.csproj.CoreCompileInputs.cache
+D:\WOA\DevServer\WOA_DEVServer\WOA_DEVServer\obj\Debug\WOA_DEVServer.exe
+D:\WOA\DevServer\WOA_DEVServer\WOA_DEVServer\obj\Debug\WOA_DEVServer.pdb
+D:\WOA\DevServer\WOA_DEVServer\WOA_DEVServer\bin\Debug\MySql.Data.dll
+D:\WOA\DevServer\WOA_DEVServer\WOA_DEVServer\obj\Debug\WOA_DEVServer.csproj.CopyComplete
+E:\QUICKGAMEFINDER\QGF\Serveur\WOA_DEVServer\bin\Debug\WOA_DEVServer.exe.config
+E:\QUICKGAMEFINDER\QGF\Serveur\WOA_DEVServer\bin\Debug\WOA_DEVServer.exe
+E:\QUICKGAMEFINDER\QGF\Serveur\WOA_DEVServer\bin\Debug\WOA_DEVServer.pdb
+E:\QUICKGAMEFINDER\QGF\Serveur\WOA_DEVServer\obj\Debug\WOA_DEVServer.csprojAssemblyReference.cache
+E:\QUICKGAMEFINDER\QGF\Serveur\WOA_DEVServer\obj\Debug\WOA_DEVServer.csproj.CoreCompileInputs.cache
+E:\QUICKGAMEFINDER\QGF\Serveur\WOA_DEVServer\obj\Debug\WOA_DEVServer.csproj.CopyComplete
+E:\QUICKGAMEFINDER\QGF\Serveur\WOA_DEVServer\obj\Debug\WOA_DEVServer.exe
+E:\QUICKGAMEFINDER\QGF\Serveur\WOA_DEVServer\obj\Debug\WOA_DEVServer.pdb

@@ -1,0 +1,22 @@
+
+    <div class="content">
+        <h1 id="welcomeUsername" class="welcomeTitle">Bienvenue, {username}</p></h1>
+        <h3 class="welcomeDesc">
+            Il semblerait que c'est votre premiere connexion. 
+                <br> 
+            Veuillez patienter pendant que nous detectons vos jeux
+        </h3>
+        <div id="detectionContent" class="detectionContent">
+        </div>
+
+        <button id="confirmDetection" type="button"
+        class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
+        Valider
+        </button>
+    </div>
+
+    <script src="./io/locateGames.js"></script>
+    <script>
+        document.getElementById("welcomeUsername").innerHTML = "Bienvenue, " + memClient.username;
+        var games = locateGames("detectionContent");
+    </script>

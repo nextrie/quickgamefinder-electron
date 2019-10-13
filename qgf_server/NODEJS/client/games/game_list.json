@@ -1,0 +1,16 @@
+{
+    "games":
+    {
+        "arma3":
+        {
+            "title": "ARMA 3",
+            "logo": "http://"
+        },
+
+        "csgo":
+        {
+            "title": "COUNTER STRIKE: GLOBAL OFFENSIVE",
+            "logo": "http://"
+        }
+    }
+}
