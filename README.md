@@ -6,6 +6,7 @@ Projet réalisé sous Electron.JS
 Ce projet est une version améliorée de celui créé à l'origine en C#. Je le développe actuellement dans mon temps libre.
 
 // /DISCLAIMER //
+
 QuickGameFinder est une plateforme permettant aux joueurs n'ayant pas de cohéquipier avec lequel jouer de trouver rapidement une équipe qui correspond à ses attentes pour lancer une partie sans avoir la mauvaise surprise de tomber avec une équipe bancale du au hasard du matchmaking des jeux en ligne.
 
 Ce projet est réalisé en JavaScript pour l'aspect back-end (NODEJS) et en HTML, CSS et également JavaScript pour l'aspect front-end.
