@@ -26,6 +26,6 @@ Les packets réseau échangés entre le serveur et le client n'ont volontairemen
 
 // Work In Progress //
 
-![alt text](https://prnt.sc/qjgjjk)
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/Screenshot_2.png)
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/Screenshot_3.png)
+![alt text](https://i.ibb.co/pPhF12w/Screenshot-1.png)
+![alt text](https://i.ibb.co/vsFG24L/Screenshot-2.png)
+![alt text](https://i.ibb.co/82Y4ZdK/Screenshot-3.png)
